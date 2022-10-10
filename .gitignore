@@ -1,0 +1,4 @@
+
+bin/HttpPDFServer.class
+*.class
+.vscode/settings.json
